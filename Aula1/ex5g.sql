@@ -1,0 +1,1 @@
+SELECT SUM(quantidade) / COUNT(numero_pedido) FROM item_pedidos
