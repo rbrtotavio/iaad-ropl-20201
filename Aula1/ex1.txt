@@ -1,0 +1,1 @@
+Enquanto os bancos de dados são conjuntos de arquivos que se relacionam com registros de objetos, pessoas e entre outros, um sistema de gerenciamento de banco de dados (ou SGBD) é um software, ou conjunto destes, responsáveis pelo gerenciamento de banco de dados. Pelo o uso de uma interface o SGBD facilita a interação entre o usuário e os dados armazenados no banco de dados.
