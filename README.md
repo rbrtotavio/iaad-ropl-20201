@@ -1,3 +1,3 @@
-# iaad-ropl-20201(Aula-1)
+# iaad-ropl-20201(Aula-2)
 
-Branch dedicated to the exercises for the first Introduction to Storage and Data Analysis class.
+Branch dedicated to the exercises for the second Introduction to Storage and Data Analysis class.
